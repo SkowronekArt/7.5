@@ -293,11 +293,21 @@ section#text {
 .flex-col-12 {
 	flex: 12;
 }
-.center {text-align: center;}
-.right {text-align: right;}
-.justify {text-align: justify;}
-.bold {font-weight: bold;}
-.relative {position: relative;}
+.center {
+	text-align: center;
+}
+.right {
+	text-align: right;
+}
+.justify {
+	text-align: justify;
+}
+.bold {
+	font-weight: bold;
+}
+.relative {
+	position: relative;
+}
 ul {
 	margin: 0;
 	padding: 0;
